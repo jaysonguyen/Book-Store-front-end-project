@@ -45,3 +45,5 @@ async function connectAndQuery() {
         console.error(err.message);
     }
 }
+
+// Test github by Tâm
